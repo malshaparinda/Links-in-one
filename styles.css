@@ -170,7 +170,7 @@ body::after {
     right: 0;
     text-align: center;
     opacity: 0.5;
-    font-size: 14px;
+    font-size: 10px;
     color: #ffffff;
     font-family: 'Courier New', Courier, monospace;
 }
